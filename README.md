@@ -21,6 +21,7 @@ I love the entire process of developing creative websites. I love the challenge 
 <a href="https://www.youtube.com/channel/UCVYli9eds7UqGeGgHBP3C_Q/"><img align="left" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="Tolde | Youtube" width="21px"/></a>
 
 </br>
+
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## 🔭 I'm currently working on
@@ -46,3 +47,9 @@ I love the entire process of developing creative websites. I love the challenge 
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+## 📈 GitHub Stats 
+
+[![Tolde's github stats](https://github-readme-stats.vercel.app/api?username=ToldeHub)](https://github.com/ToldeHub)
+
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.ToldeHub)](https://www.toldehub.tk/)
