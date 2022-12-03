@@ -15,3 +15,7 @@ I'm a Web Developer, Designer, and coder
 </h2> 
 
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people.
+
+<a href="https://www.youtube.com/channel/UCVYli9eds7UqGeGgHBP3C_Q/"><img align="left" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="Tolde | Youtube" width="21px"/></a>
+
+</br>
