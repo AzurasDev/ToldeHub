@@ -1,6 +1,6 @@
 
 ## I code things sometimes
-[![](https://visitcount.itsvg.in/api?id=AzurasDev&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sobolevn&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCVYli9eds7UqGeGgHBP3C_Q) 
 
 # Github Stat
