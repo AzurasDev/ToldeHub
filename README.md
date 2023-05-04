@@ -13,6 +13,8 @@
 - ✔️ Latest public project: **[Deepwoken Race Morpher](https://github.com/AzurasDev/DeepwokenRaceMorpher)**
 
 - 🔭 I’m currently working on: **Small Projects. Contact me for help with anything!**
+- 
+- 😭 You might've seen me before for my work and what ive done but i keep my older and paid repos private :)
 
 - 🌱 I’m currently learning: **TS & Backend PHP**
 
