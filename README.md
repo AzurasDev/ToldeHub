@@ -1,14 +1,14 @@
 <a href="https://komarev.com/ghpvc/?username=alsiam">
-  <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=Zariffs&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
 
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
+<!--[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)-->
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I'm
-                <b><a target="_blank" href="https://example.com">Zariffs</a></b>
+        <samp>&gt; やあ、
+                <b><a target="_blank" href="https://example.com">ザリフだ。</a></b>
         </samp>
 </h3>
 
@@ -16,22 +16,21 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a Roblox Developer from <b>Australia</b> 」
+    「 私は<b>オーストラリア</b>出身のRoblox開発者です。 」
     <br>
     <br>
   </samp>
 </p>
 
-## Skills
+## スキル
 
-「🔍」C Application Developer
+「🔍」Cアプリケーション開発者
 
-「🎮」Lua Game Development
+「🎮」Luaゲーム開発
 
-「⚙️」Reverse Engineering (x86 & x64 ASM)
+「⚙️」リバースエンジニアリング（x86 & x64 ASM）
 
-
-## Use To Code
+## 私が知っているコーディング言語
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&labelColor=black&logo=lua&logoColor=2C2D72)
