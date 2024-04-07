@@ -57,7 +57,7 @@
 
 <p align="center">
   <a href="https://github.com/Zariffs">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alsiam&theme=radical" alt="GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zariffs&theme=ayu_mirage" alt="GitHub Contribution"/>
   </a>
 </p>
 
