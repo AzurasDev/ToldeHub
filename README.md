@@ -1,7 +1,6 @@
 ![プロフィール閲覧数](https://komarev.com/ghpvc/?username=Zariffs&style=for-the-badge&base=4525393) 
 <br>
 ^どう言えばいいのかわからない^
-![](https://hit.yhype.me/github/profile?user_id=117697918)
 
 <!--[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)-->
 
@@ -69,3 +68,5 @@
 
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zariffs&custom_title=GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 -->
+
+![](https://hit.yhype.me/github/profile?user_id=117697918)
