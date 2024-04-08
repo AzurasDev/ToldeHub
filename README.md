@@ -1,4 +1,5 @@
 ![プロフィール閲覧数](https://komarev.com/ghpvc/?username=Zariffs&style=for-the-badge&base=4525393) 
+<!--![プロフィール閲覧数](https://komarev.com/ghpvc/?username=Zariffs&style=for-the-badge&base=4525393) -->
 <br>
 ^どう言えばいいのかわからない^
 
