@@ -8,7 +8,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; やあ、
-                <b><a target="_blank" href="https://example.com">ザリフだ。</a></b>
+                <b><a target="_blank" href="https://zariffs.studio/">ザリフだ。</a></b>
         </samp>
 </h3>
 
@@ -18,7 +18,7 @@
     <br>
     「 私は<b>オーストラリア</b>出身のRoblox開発者です。 」
     <br>
-          https://zariffs.github.io/work/
+          https://zariffs.studio/
     <br>
   </samp>
 </p>
